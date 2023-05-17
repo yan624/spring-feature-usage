@@ -6,6 +6,8 @@ import java.util.Locale;
 import java.util.Map;
 
 /**
+ * <p>可配置化页面服务</p>
+ * <p>提供场景化配置。当不同场景共用同一个页面时，前端可以根据场景码获得场景化配置。这样对于不同的场景可以在页面上显示不同的文案或效果。</p>
  * @author yorz
  * @since 2023-05-16
  */
