@@ -1,0 +1,10 @@
+mainPage:
+  control:
+    icon: true
+  text:
+    wanna: "想读"
+    done: "已读"
+    tempSave: "暂存"
+customPage:
+  text:
+    customText: "123456"

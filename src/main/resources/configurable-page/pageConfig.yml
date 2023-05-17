@@ -1,0 +1,7 @@
+mainPage:
+  control:
+    icon: true
+  text:
+    wanna: "想看"
+    done: "已看"
+    tempSave: "暂存"
